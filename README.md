@@ -1,0 +1,1 @@
+# navigater-AI-analysizer
